@@ -109,7 +109,7 @@ export function SkyCanvasHUD({
   motionFilter,
   catalogOverlays,
   activeOnTheFlySource,
-  isDrawerOpen: _isDrawerOpen = true,
+  isDrawerOpen = true,
   isSplitView = false,
   onViewportChange,
   onChangeFilterWheel,
