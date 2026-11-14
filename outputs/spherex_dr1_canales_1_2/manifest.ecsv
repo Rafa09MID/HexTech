@@ -1,0 +1,10 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: url, datatype: string}
+# - {name: archivo, datatype: string}
+# - {name: estado, datatype: string}
+# - {name: detalle, datatype: string}
+# schema: astropy-2.0
+url archivo estado detalle
+https://irsa.ipac.caltech.edu/ibe/data/spherex/dr1/hips5_cube/hips_20261026/Norder5/Dir0/Npix2858_cube.fits outputs/spherex_dr1_canales_1_2/Npix2858_cube_canales_1_2.fits existente ""
