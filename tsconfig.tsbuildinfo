@@ -1,1 +1,0 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/commandpalettemodal.tsx","./src/components/header.tsx","./src/components/skycanvasview.tsx","./src/components/splitview.tsx","./src/components/telemetrydrawer.tsx","./src/components/timelinebar.tsx","./src/data/spherexdata.ts","./vite.config.ts"],"version":"5.9.3"}
